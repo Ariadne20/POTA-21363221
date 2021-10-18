@@ -4,6 +4,11 @@ import java.util.Scanner;
 
 public class LerArquivo {
 
+//Ariadne Guimarães Lemos de Andrade 21363221
+//Erika Lima da Silva 21360699
+//Fernanda Florencio Dias 21305593
+//Gabriel Roque Capozzi 20526104
+
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
